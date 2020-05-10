@@ -102,3 +102,4 @@ dist
 
 # TernJS port file
 .tern-port
+aulas/backend/src/database/db.sqlite
