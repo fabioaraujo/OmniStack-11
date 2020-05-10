@@ -11,6 +11,12 @@ app.use(express.json())
  * Request body: acessado através de request.body
  */
 
+ /**
+  * Driver SQL: SQL Nativo
+  * Query Builder KNEX: table('users').select('*').where()
+  * 
+  */
+
 app.get('/', (request, response) => {
     return response.json({
         evento: 'Semana OmniStack 11.0',

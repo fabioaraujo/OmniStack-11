@@ -12,6 +12,9 @@
     - npm init -y
     - npm install express
     - npm install nodemon -D `devido ao parâmetro -D o nodemon será instalado como uma dependencia de desenvolvimento
+- dependencias de banco de dados
+    - knex
+    - sqlite3
 
 ### React
 
