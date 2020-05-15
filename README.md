@@ -22,3 +22,8 @@
 ### React
 
 - npx create-react-app frontend
+
+### Mobile
+
+- npm install -g expo-cli
+    - expo init mobile
