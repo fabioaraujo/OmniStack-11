@@ -23,8 +23,7 @@ module.exports = {
 
         const [id] = await connection('incidents').insert({
             title, 
-            description, 
-            city,
+            description,
             value,
             ong_id
         });
